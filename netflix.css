@@ -1,0 +1,132 @@
+.main_container {
+    text-align: center;
+    background-image: url("https://mcdn.wallpapersafari.com/medium/90/15/OehiMB.jpg");
+    width: 140vh;
+
+}
+
+
+.input {
+    background-color: transparent;
+    height: 50px;
+    text-align: center;
+    font-family: "roboto";
+    font-size: 20px;
+}
+
+.button1 {
+    background-color: red;
+    height: 50px;
+    text-align: center;
+    font-family: "roboto";
+    font-size: 20px;
+}
+
+
+
+.button {
+    background-color: red;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    height: 40px;
+    width: 100px;
+    padding: 3px;
+    margin: 5px;
+}
+
+.nav {
+    direction: ltr;
+    flex-direction: row;
+    padding: 3px;
+    margin: 2px;
+    text-align: right;
+}
+
+.language {
+    background-color: transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    height: 40px;
+    width: 100px;
+    padding: 3px;
+    color: white;
+}
+
+
+.container {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.image {
+    height: 100px;
+    width: 400px;
+    padding: 20px;
+}
+
+.cart {
+    direction: ltr;
+    flex-direction: row;
+    padding: 100px;
+    margin: 2px;
+
+
+}
+
+.cart2 {
+    direction: ltr;
+    flex-direction: row;
+    padding: 50px;
+    margin: 2px;
+
+}
+
+.heading {
+    color: gray;
+    font-family: "Roboto";
+}
+
+.head {
+    color: white;
+    font-size: 50px;
+}
+
+.image1 {
+    height: 170px;
+    width: 150px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.movie_list {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin: 5px;
+}
+
+.movie_details {
+    direction: column;
+    padding: 3px;
+    margin: 2px;
+}
+
+.paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.paragraph1 {
+    color: red;
+}
